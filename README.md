@@ -1,2 +1,3 @@
-# apidocs
-API documentation for PatternFly Java
+# API Documentation 
+
+This repository hosts the [API documentation](https://patternfly-java.github.io/apidocs/) for PatternFly Java. 
