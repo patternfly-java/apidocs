@@ -48,6 +48,7 @@ org.patternfly.style
 org.patternfly.core
 org.patternfly.handler
 org.patternfly.dataprovider
+org.patternfly
 org.patternfly.icon
 org.patternfly.layout.split
 org.patternfly.layout.flex
