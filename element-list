@@ -11,7 +11,7 @@ org.patternfly.component.breadcrumb
 org.patternfly.component.button
 org.patternfly.component.card
 org.patternfly.component.chip
-org.patternfly.component.code
+org.patternfly.component.codeblock
 org.patternfly.component.divider
 org.patternfly.component.drawer
 org.patternfly.component.emptystate
@@ -46,6 +46,8 @@ org.patternfly.component.truncate
 org.patternfly.component.wizard
 org.patternfly.core
 org.patternfly.dataprovider
+org.patternfly.extension.codeeditor
+org.patternfly.extension.finder
 org.patternfly.handler
 org.patternfly.icon
 org.patternfly.layout
