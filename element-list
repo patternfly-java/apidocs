@@ -45,6 +45,7 @@ org.patternfly.component.title
 org.patternfly.component.togglegroup
 org.patternfly.component.toolbar
 org.patternfly.component.tooltip
+org.patternfly.component.tree
 org.patternfly.component.truncate
 org.patternfly.component.wizard
 org.patternfly.core
